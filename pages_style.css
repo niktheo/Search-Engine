@@ -9,5 +9,29 @@
 /*headings */
 /*links*/
 /*forms */
+.search {
+  display: block;
+  margin: auto;
+  width: 400px;
+  height: 40px;
+  margin-top: 20px;
+  border-width: thin;
+  border-radius: 40px;
+  border: #c4c4c4 solid;
+  color: #5b5b5b;
+}
+.but {
+  width: 80px;
+  height: 40px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border-color: #1a5fd0;
+  border-width: thin;
+  background-color: #4285f3;
+  color: white;
+}
+.but:hover {
+  color: #5998ff;
+}
 /*images*/
 /*results*/
