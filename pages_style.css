@@ -77,3 +77,41 @@ a:visited {
 
   width: 150px;
 }
+.search2 {
+  margin: auto;
+  width: 400px;
+  height: 40px;
+  border-width: thin;
+  border-radius: 40px;
+  border: #c4c4c4 solid;
+  color: #5b5b5b;
+}
+
+.but2 {
+  display: inline;
+  width: 80px;
+  height: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border-color: #1a5fd0;
+  border-width: thin;
+  background-color: #4285f3;
+  color: white;
+}
+.form2 {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 400px 80px;
+  grid-column-gap: 30px;
+}
+.navbar {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 150px 700px 140px;
+  grid-column-gap: 20px;
+  border-bottom: 2px solid #c4c4c4;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+/*results*/
