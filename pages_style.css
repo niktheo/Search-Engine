@@ -115,3 +115,25 @@ a:visited {
   margin-top: 10px;
 }
 /*results*/
+.results {
+  color: #5b5b5b;
+  margin-bottom: 30px;
+  font-size: 14px;
+}
+
+.firstResult {
+  margin-left: 180px;
+}
+
+nav > div {
+  margin-top: 30px;
+}
+div {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+h2 > a {
+  font-weight: normal;
+  text-decoration: none;
+}
