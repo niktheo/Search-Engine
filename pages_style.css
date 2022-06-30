@@ -6,6 +6,13 @@
   width: 100%;
   font-size: 14;
 }
+.results_page {
+  font-family: Helvetica, Arial, sans-serif;
+  width: 100%;
+  top: 0%;
+  position: absolute;
+  margin: 0;
+}
 /*headings */
 /*links*/
 /*forms */
@@ -39,3 +46,34 @@
   margin-top: 100px;
 }
 /*results*/
+
+/*headings */
+h2 {
+  font-size: 24px;
+}
+/*paragraphs*/
+p {
+  font-size: 14px;
+  color: #5b5b5b;
+}
+/*links*/
+li {
+  display: inline;
+  font-size: 12px;
+}
+ul {
+  padding: 0;
+}
+a {
+  color: #1a0dab;
+}
+
+a:visited {
+  color: #660099;
+}
+/*logo*/
+.logo2 {
+  margin-top: 10px;
+
+  width: 150px;
+}
